@@ -1,7 +1,8 @@
 # Working with React Router DOM
 
 ## The Goal of the Project
-Understanding the general structure of React Router DOM and learn to work with Private Route
+Understanding the general structure of React Router DOM, Context API and learn to work with Private Route
+Theme Change
 
 ## Project Install
 ```
